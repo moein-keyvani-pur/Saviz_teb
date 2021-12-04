@@ -1,16 +1,42 @@
-# saviz_teb
 
-A new Flutter project.
+# Application Saviz_teb using Flutter
 
-## Getting Started
+store Application to buy medical equaipment 
 
-This project is a starting point for a Flutter application.
+## Authors
 
-A few resources to get you started if this is your first Flutter project:
+- [@moein-keyvani-pur](https://www.github.com/moein-keyvani-pur)
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Features
+
+- beautiful ui
+- responsive ui
+- Light/dark mode toggle
+- animation
+- getx stateManagement
+- use maps
+- sqflite
+
+
+
+## Feedback
+
+If you have any feedback, please reach out to us at moein.kpr@gmail.com
+
+
+# Hi, I'm moein keyvani pur! 👋
+
+
+## 🛠 Skills
+- flutter
+- dart
+- c program
+- python
+- flutter bloc
+- flutter GetX
+
+
+## 🚀 About Me
+I'm a flutter developer and I am learning data mining...
+
